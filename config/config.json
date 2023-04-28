@@ -22,6 +22,7 @@
   "MARKETPLACE_LINK": "https://opensea.io/collection/moon-base-pass",
   "SHOW_BACKGROUND": true,
   "BannerOn":false,
+  "MintPannelInfo":false,
   "PhasePublic": false,
   "PhaseParentClaim": false,
   "PhaseWL": true,
